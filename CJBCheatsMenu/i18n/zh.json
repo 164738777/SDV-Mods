@@ -49,7 +49,7 @@
     *********/
     // farm
     "farm.title": "农场",
-    "farm.auto-water": "Auto-Water Crops", // TODO
+    "farm.auto-water": "自动灌溉",
     "farm.durable-fences": "围栏不损毁",
     "farm.instant-build": "农场建筑立即完成",
     "farm.always-auto-feed": "自动喂食",
@@ -163,7 +163,7 @@
     ** Warps tab
     *********/
     // main areas
-    "warp-section.main": "Main Areas", // TODO
+    "warp-section.main": "主要区域",
     "warp.farm": "农场",
     "warp.carpenter": "木匠的商店",
     "warp.desert": "沙漠",
@@ -171,7 +171,7 @@
     "warp.pierre-shop": "皮埃尔的杂货店",
 
     // town
-    "warp-section.town": "Town", // TODO
+    "warp-section.town": "城镇",
     "warp.blacksmith": "铁匠",
     "warp.community-center": "社区中心",
     "warp.jojamart": "Joja超市",
@@ -181,14 +181,14 @@
     "warp.sewer": "下水道",
 
     // forest
-    "warp-section.forest": "Forest", // TODO
+    "warp-section.forest": "森林",
     "warp.hats": "被遗弃的房屋",
     "warp.ranch": "玛尼的牧场",
     "warp.secret-woods": "秘密森林",
     "warp.wizard-tower": "法师塔",
 
     // mountain
-    "warp-section.mountain": "Mountain", // TODO
+    "warp-section.mountain": "山区",
     "warp.adventurers-guild": "探险家工会",
     "warp.bathhouse": "温泉",
     "warp.quarry": "采石场",
@@ -199,7 +199,7 @@
     "warp.willy-shop": "威利的鱼店",
 
     // desert
-    "warp-section.desert": "Desert", // TODO
+    "warp-section.desert": "沙漠地带",
     "warp.casino": "赌场",
     "warp.sandy-shop": "桑迪的商店",
     "warp.skull-cavern": "头骨矿洞",
@@ -242,6 +242,6 @@
     "controls.grow-tree": "树木立即长大",
     "controls.grow-crops": "作物立即成熟",
     "controls.grow-radius": "Grow distance around player", // TODO
-    "controls.reset-controls": "Reset", // TODO
+    "controls.reset-controls": "重置",
     "controls.press-new-key": "绑定新按键..."
 }
